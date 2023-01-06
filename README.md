@@ -1,7 +1,8 @@
 # Content for API Testing Project 1
 - [Introduction](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman/#introduction)    
 - [Summary](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman/#summary)      
-- [Requirements](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman/#requirements)    
+- [Requirements](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman/#requirements)
+- [Environment Variables](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman#environment-variables)
 - [Pre-request Script Details](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman/#pre-request-script-details)
   - [Create Booking](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman/#create-booking)   
   - [Update Booking](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman/#updating-booking)  
