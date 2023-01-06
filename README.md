@@ -40,7 +40,7 @@ Here in the mentioned API, books can be booked with a centain check in and check
 
   
 <p align="center">
-  <img src="https://github.com/Muftain1610/API_Testing_Using_Postman_and_Newman/blob/main/API%20Testing%20Project%201/NEWMAN%20html%20reports/Booking%20NEWMAN%20html%20extra.png" />
+  <img src="https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman/blob/main/API%20testing%20project%20-1/Newman%20html%20reports/Newman%20html%20extra.png" />
 </p>
 
 
