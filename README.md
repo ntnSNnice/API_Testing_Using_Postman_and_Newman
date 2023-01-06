@@ -49,7 +49,20 @@ https://www.postman.com/
 **Node JS**   
 https://nodejs.org/en/    
 
+## Environment Variables
 
+To run this project, you will need to add the following environment variables to your .env file
+
+`Token`
+`newBookingID`
+`baseURL`
+`first_name`
+`last_name`
+`total_price`
+`deposit_paid`
+`Check_In`
+`Check_Out`
+`additional_needs`
 
 # Pre-request Script Details   
 #### Create Booking
