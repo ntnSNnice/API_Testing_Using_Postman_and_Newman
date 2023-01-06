@@ -421,8 +421,9 @@ npm install -g newman-reporter-htmlextra
 ```
 #### Run Command      
 ```bash
-- newman run “Collection Link” -e “Path”/EnvironmentName.json -r cli,html    
+newman run “Collection Link” -e “Path”/EnvironmentName.json -r cli,html    
 ```
 **or**    
 ```bash
-- newman  
+newman run “Collection Link” -e “Path”/EnvironmentName.json -r cli,htmlextra    
+```
