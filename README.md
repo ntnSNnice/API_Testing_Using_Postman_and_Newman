@@ -1,26 +1,27 @@
 # Content for API Testing Project 1
-- [Introduction](https://github.com/Muftain1610/API_Testing_Using_Postman_and_Newman#introduction)    
-- [Summary](https://github.com/Muftain1610/API_Testing_Using_Postman_and_Newman#summary)      
-- [Requirements](https://github.com/Muftain1610/API_Testing_Using_Postman_and_Newman#requirements)    
-- [Pre-request Script Details](https://github.com/Muftain1610/API_Testing_Using_Postman_and_Newman#pre-request-script-details)
-  - [Create Booking](https://github.com/Muftain1610/API_Testing_Using_Postman_and_Newman#create-booking)   
-  - [Update Booking](https://github.com/Muftain1610/API_Testing_Using_Postman_and_Newman#updating-booking)  
-  - [Partially Update Booking](https://github.com/Muftain1610/API_Testing_Using_Postman_and_Newman#partially-updating-booking)
-- [Request Body](https://github.com/Muftain1610/API_Testing_Using_Postman_and_Newman#request-body)
-- [Assertions Details](https://github.com/Muftain1610/API_Testing_Using_Postman_and_Newman#assertions-details)   
-  - [Create Booking](https://github.com/Muftain1610/API_Testing_Using_Postman_and_Newman#create-booking-1)   
-  - [Access Token Generate](https://github.com/Muftain1610/API_Testing_Using_Postman_and_Newman#access-token-generate)   
-  - [Update Booking](https://github.com/Muftain1610/API_Testing_Using_Postman_and_Newman#update-booking)  
-  - [Partial Update Booking](https://github.com/Muftain1610/API_Testing_Using_Postman_and_Newman#partial-update-booking)   
-  - [Delete Booking](https://github.com/Muftain1610/API_Testing_Using_Postman_and_Newman#delete-booking)  
-- [Create Test Suites](https://github.com/Muftain1610/API_Testing_Using_Postman_and_Newman#create-test-suites)      
+- [Introduction](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman/#introduction)    
+- [Summary](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman/#summary)      
+- [Requirements](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman/#requirements)    
+- [Pre-request Script Details](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman/#pre-request-script-details)
+  - [Create Booking](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman/#create-booking)   
+  - [Update Booking](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman/#updating-booking)  
+  - [Partially Update Booking](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman/#partially-updating-booking)
+- [Request Body](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman/#request-body)
+- [Assertions Details](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman/#assertions-details)   
+  - [Create Booking](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman/#create-booking-1)   
+  - [Access Token Generate](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman#access-token-generate)   
+  - [Update Booking](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman#update-booking)  
+  - [Partial Update Booking](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman#partial-update-booking)   
+  - [Delete Booking](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman#delete-booking)  
+- [Create Test Suites](https://github.com/ntnSNnice/API_Testing_Using_Postman_and_Newman#create-test-suites)      
       
 
 # Introduction
-This document explains how to run an API test with Postman on a booking website.    
+This documentation explains how to run an API test with Postman on a booking website.    
 
 # Summary    
-I have done API testing on the following website  
+I have completed an API testing on a Book booking website.
+The following website is the website i have tested.
 https://restful-booker.herokuapp.com/
 
 **Tasks Done**
